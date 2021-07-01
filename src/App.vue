@@ -24,11 +24,15 @@ export default {
   box-sizing: border-box;
 }
 body {
-  background-color: hsl(0, 0%, 90%);
+  background-color: hsl(0, 0%, 98%);
+  height: 300vh;
 }
 #app {
   font-family: "Roboto", sans-serif;
   text-align: center;
   color: hsl(0, 0%, 10%);
+}
+a {
+  color: #000;
 }
 </style>
