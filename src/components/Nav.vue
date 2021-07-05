@@ -5,19 +5,19 @@
         <a href="#">Jackets<fa icon="chevron-right" /></a>
       </li>
       <li>
+        <a href="#">Shirts<fa icon="chevron-right" /></a>
+      </li>
+      <li>
+        <a href="#">Hoods<fa icon="chevron-right" /></a>
+      </li>
+      <li>
         <a href="#">Sneakers<fa icon="chevron-right" /></a>
       </li>
       <li>
-        <a href="#">Hoods<fa icon="chevron-right" /></a>
+        <a href="#">Pants<fa icon="chevron-right" /></a>
       </li>
       <li>
-        <a href="#">Hoods lorem<fa icon="chevron-right" /></a>
-      </li>
-      <li>
-        <a href="#">Hoods<fa icon="chevron-right" /></a>
-      </li>
-      <li>
-        <a href="#">Hoods<fa icon="chevron-right" /></a>
+        <a href="#">Hats<fa icon="chevron-right" /></a>
       </li>
     </ul>
     <div class="social-media">

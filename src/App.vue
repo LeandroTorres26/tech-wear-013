@@ -1,13 +1,21 @@
 <template>
   <Header />
+  <main>
+    <Hero />
+    <Products />
+  </main>
 </template>
 
 <script>
 import Header from "./components/Header.vue";
+import Hero from "./components/Hero.vue";
+import Products from "./components/Products.vue";
 export default {
   name: "App",
   components: {
     Header,
+    Hero,
+    Products,
   },
 };
 </script>
@@ -25,7 +33,6 @@ export default {
 }
 body {
   background-color: hsl(0, 0%, 98%);
-  height: 300vh;
 }
 #app {
   font-family: "Roboto", sans-serif;

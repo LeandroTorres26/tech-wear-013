@@ -1,0 +1,66 @@
+{ "products": [
+    {
+        "id":1,
+        "name":"Project - X Dark Windbreaker Pattern Jacket",
+        "price":49.90,
+        "img":"https://img.staticdj.com/d91ac21b7c66ba5239a69f7df7631989_1080x.jpeg",
+        "categorie":"Jacket"
+    },
+    {
+        "id":2,
+        "name":"Street Fashion Color Sneakers",
+        "price":39.90,
+        "img":"https://img.staticdj.com/5c586fc3af8166399fcc6b1f186299a7_1080x.jpeg",
+        "categorie":"Sneakers"
+    },
+    {
+        "id":3,
+        "name":"Metal Robot Theme Hoodies",
+        "price":79.90,
+        "img":"https://img.staticdj.com/fc0531d5ad0595b919f66ebbd7e37ccd_1080x.png",
+        "categorie":"Hoodies"
+    },
+    {
+        "id":3,
+        "name":"Stacked Jeans Urban Trouser Pants",
+        "price":20.90,
+        "img":"https://img.staticdj.com/17a86bd07f0eadd822a9298ed62a2073_360x.jpg",
+        "categorie":"Pants"
+    },
+    {
+        "id":3,
+        "name":"Project - X Techwear Hoodie",
+        "price":76.00,
+        "img":"https://img.staticdj.com/af54a4932891f15860b404683093ef83_1080x.jpeg",
+        "categorie":"Hoodies"
+    },
+    {
+        "id":3,
+        "name":"'吉業重工' Fisherman Hat",
+        "price":33.67,
+        "img":"https://img.staticdj.com/a54597c77665525df274db64b74312c2_360x.jpeg",
+        "categorie":"Hats"
+    },
+    {
+        "id":3,
+        "name":"Techwear Graffiti Shirts",
+        "price":34.90,
+        "img":"https://img.staticdj.com/9ea60708dbca98aa4fab1de5c7c5159d_1080x.jpeg",
+        "categorie":"Shirt"
+    },
+    {
+        "id":3,
+        "name":"Project - X Dark Windbreaker Pattern Jacket",
+        "price":37.69,
+        "img":"https://img.staticdj.com/f3d9ed2ed935a137daed417fab86030d_360x.jpeg",
+        "categorie":"Jackets"
+    },
+    {
+        "id":3,
+        "name":"Ink Mark Unique patterned Sneakers Shoes",
+        "price":52.00,
+        "img":"https://img.staticdj.com/52fd429211d4770f8b038a75dd47d625_360x.jpeg",
+        "categorie":"Sneakers"
+    }
+    ]
+}
